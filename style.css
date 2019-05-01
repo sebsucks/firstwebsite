@@ -1,0 +1,21 @@
+h1 {
+    color: red     
+}
+
+#carlist {
+    color: blue
+
+}
+
+.boxcontainer {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em
+    
+
+
+}
+#carpic {
+
+width: 50%;
+height: 50%;
+}
